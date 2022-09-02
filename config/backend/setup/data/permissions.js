@@ -1,0 +1,2 @@
+const permissions = {"primary-menu-item":["find","findOne"],"primary-menu-items":["find","findOne"],"secondary-menu-item":["find","findOne"],"secondary-menu-items":["find","findOne"],"global":["find","findOne"],"layout":["find","findOne"],"event":["find","findOne"],"events":["find","findOne"],"sponsor":["find","findOne"],"sponsors":["find","findOne"],"home":["find","findOne"],"about":["find","findOne"],"contact":["find","findOne"],"subscribe":["find","findOne"],"donate":["find","findOne"],"volunteer":["find","findOne"]};
+  module.exports = permissions;
